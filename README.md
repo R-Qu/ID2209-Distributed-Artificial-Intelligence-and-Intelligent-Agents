@@ -4,4 +4,4 @@ All 3 assignments done with Gama
 
 Tutorials to [Gama platform](https://gama-platform.github.io/wiki/Tutorials)
 
-Final project done with Unity and external Python API to implement RL, see [here](https://github.com/R-Qu/Reinforcement-Learning-with-Unity)
+Final project done with Unity and external Python API to implement RL, see [Reinforcement-Learning-with-Unity](https://github.com/R-Qu/Reinforcement-Learning-with-Unity)
